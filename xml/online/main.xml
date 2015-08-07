@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAIN>
+    <APP REGGROUP="default" REG="false" TRAININGPROVIDER="false" ID="29009d240d534bda3dda0a5867b1e629" TITLE="accounting 2" TAGLINE="learning area 2" HEADERIMAGE="main/images/logo-interface.png" COBRANDING="main/images/upload-boston.png" REGHEADER="main/images/logo_reg.png" COPYRIGHT="Copyright Edge CC 2015" MENUTITLE="Menu" REGURL="http://register.upload-media.com/modules/mod_edgemediaAPI/helpers/registration.php?" AID="12324qwerty" SKU="1234-qwer-1234"/>
+    <STYLE HEADERBACK1MC="0xFFFFFF" HEADERBACK2MC="0xFFFFFF" MENUBACKMC="0x024a74" CRUMBSBACKMC="0xc8dce8" AREA1MC="0xFFFFFF" AREA2MC="0x076fb4" AREA3MC="0xaabdc8" FOOTERBACKMC="0x076fb4"/>
+    <ITEMS>
+        <SIDEMENUS>
+            <MEN MID="0">
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Welcome" DESCTIPTION="Welcome to Upload Media">
+                    <P1 TITLE="Welcome" TYPE="CONTENT">
+                        <CONTENT>
+                            <![CDATA[this is a test]]>
+                        </CONTENT>
+                    </P1>
+                    <P2 TITLE="Revision Video" TYPE="LIST" LOCK="true">
+                        <POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="" ITEMDESCRIPTION="Questions and Answer Templates" ITEMLINK="main/pdfs/bktb_section_a.pdf" TYPE="HTTP"/>
+                    </P2>
+                    <P3 TITLE="Websites" TYPE="LIST" LOCK="true">
+                        <POSITEM ICON="main/images/icons/http.png" ITEMNAME="" ITEMDESCRIPTION="Visit EDGE Learning Media" ITEMLINK="http://www.edgelearningmedia.com" TYPE="HTTP"/>
+                        <POSITEM ICON="main/images/icons/http.png" ITEMNAME="" ITEMDESCRIPTION="Visit Upload Media" ITEMLINK="http://www.upload-media.com" TYPE="HTTP"/>
+                        <POSITEM ICON="main/images/icons/http.png" ITEMNAME="" ITEMDESCRIPTION="Visit BOSTON" ITEMLINK="http://bostoncollege.co.za" TYPE="HTTP"/>
+                    </P3>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="MENU" CHILDMENUMID="1" TITLE="Revision Videos" DESCTIPTION="Studyy Phase 1 - Formative Activity and Evaluation 1"/>
+                <MENUITEM MENUTYPE="MENU" CHILDMENUMID="19" TITLE="Revision Videos" DESCTIPTION="Study Phase 2 - Formative Activity and Evaluation 2"/>
+                <MENUITEM MENUTYPE="MENU" CHILDMENUMID="135" TITLE="Revision Videos" DESCTIPTION="Study Phase 3 - Formative Activity 3 and Summative Assessment"/>
+            </MEN>
+            <MEN MID="1">
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="ACEQVI" DESCTIPTION="ACEQVI - Accounting equation: VAT ignored">
+                    <P1 TITLE="ACEQVI" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="ACEQVIclip1" ITEMDESCRIPTION="Introduction & Overview" ITEMLINK="54269179" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="ACEQVIclip2" ITEMDESCRIPTION="Day 1 - Drawings of inventory" ITEMLINK="54269418" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="ACEQVIclip3" ITEMDESCRIPTION="Day 7 - Rent paid by debit order" ITEMLINK="54269419" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="ACEQVIclip4" ITEMDESCRIPTION="Day 14 - Non-current asset purchased on credit" ITEMLINK="54269420" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="ACEQVIclip5" ITEMDESCRIPTION="Day 15 - Cash sales of trading inventory" ITEMLINK="54269421" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="ACEQVIclip6" ITEMDESCRIPTION="Day 26 - Credit sales of trading inventory" ITEMLINK="54269423" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="ACEQVIclip7" ITEMDESCRIPTION="Day 27 - Return of inventory by debtor" ITEMLINK="54269882" TYPE="VIMEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="GLACCT" DESCTIPTION="GLACCT - General ledger account types">
+                    <P1 TITLE="GLACCT" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="GLACCTclip1" ITEMDESCRIPTION="Introduction & Overview" ITEMLINK="54270251" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="GLACCTclip2" ITEMDESCRIPTION="Matching Acccounts to Categories" ITEMLINK="54270253" TYPE="VIMEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="VATCAT" DESCTIPTION="VATCAT - VAT categories">
+                    <P1 TITLE="VATCAT" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="VATCATclip1" ITEMDESCRIPTION="Introduction & Overview" ITEMLINK="54271859" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="VATCATclip2" ITEMDESCRIPTION="Completing the 1st table" ITEMLINK="54270390" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="VATCATclip3" ITEMDESCRIPTION="Completing the 2nd table" ITEMLINK="54270389" TYPE="VIMEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="BAVATC" DESCTIPTION="BAVATC - Basic VAT calculations and mark-ups">
+                    <P1 TITLE="BAVATC" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BAVATCclip1" ITEMDESCRIPTION="Introduction & Overview" ITEMLINK="54270987" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BAVATCclip2" ITEMDESCRIPTION="Step 1 - Using exclusive prices in calculations" ITEMLINK="54272577" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BAVATCclip3" ITEMDESCRIPTION="Step 2 - Working with a mark-up on cost" ITEMLINK="54270988" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BAVATCclip4" ITEMDESCRIPTION="Step 3 - Calculating Gross Profit and Gross Margin" ITEMLINK="54270989" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BAVATCclip5" ITEMDESCRIPTION="Step 4 - Finding the remaining items" ITEMLINK="54270990" TYPE="VIMEO"/>
+                    </P1>
+                </MENUITEM>
+            </MEN>
+            <MEN MID="19">
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="SJPETD" DESCTIPTION="SJPETD - Subsidiary journals and general ledger: Perpetual debtors">
+                    <P1 TITLE="SJPETD" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip1" ITEMDESCRIPTION="Introduction" ITEMLINK="54277008" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip2" ITEMDESCRIPTION="Overview" ITEMLINK="54277010" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip3" ITEMDESCRIPTION="Day 1 - Capital contribution in cash" ITEMLINK="54271297" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip4" ITEMDESCRIPTION="Day 2 - Credit sale of inventory " ITEMLINK="54277009" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip5" ITEMDESCRIPTION="Day 8 - Cash sale of inventory " ITEMLINK="54279310" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip6" ITEMDESCRIPTION="Day 12 - Sale of inventory at trade discount" ITEMLINK="54272731" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip7" ITEMDESCRIPTION="Day 12 - Capital contribution in the form of a vehicle" ITEMLINK="54272732" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip8" ITEMDESCRIPTION="Day 13 - Returns by debtors (Duplicate credit notes)" ITEMLINK="54273826" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip9" ITEMDESCRIPTION="Day 15 - Receiving dividends from a share investment" ITEMLINK="54272733" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip10" ITEMDESCRIPTION="Day 18 - Petty cash purchased of an item that attracts VAT" ITEMLINK="54272734" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip11" ITEMDESCRIPTION="Day 19 - Credit sale of inventory" ITEMLINK="54273868" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip12" ITEMDESCRIPTION="Day 21 - Sale of trading inventory at a trade discount" ITEMLINK="54273869" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip13" ITEMDESCRIPTION="Day 21 - Drawings of inventory where a selling price is given" ITEMLINK="54273872" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip14" ITEMDESCRIPTION="Day 22 - Petty cash purchase of a VAT exempt supply" ITEMLINK="54279507" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip15" ITEMDESCRIPTION="Day 24 - Business rent received" ITEMLINK="54273873" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip16" ITEMDESCRIPTION="Day 25 - Credit sale of inventory" ITEMLINK="54278093" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip17" ITEMDESCRIPTION="Day 25 - Petty cash purchase of an item that attracts VAT" ITEMLINK="54279312" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip18" ITEMDESCRIPTION="Day 26 - Returns by debtors (Duplicate credit notes)" ITEMLINK="54278092" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip19" ITEMDESCRIPTION="Day 26 - Cash receipt from a debtor (No discount)" ITEMLINK="54278098" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip20" ITEMDESCRIPTION="Day 27 - Cash sale of inventory (Mark-up on cost given)" ITEMLINK="54279713" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip21" ITEMDESCRIPTION="Day 27 - Drawings from petty cash by the owner" ITEMLINK="54278099" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip22" ITEMDESCRIPTION="Day 28 - Returns by debtors (Duplicate credit notes)" ITEMLINK="54278418" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip23" ITEMDESCRIPTION="Day 30 - Cash receipt from a debtor (With settlement discount)" ITEMLINK="54278596" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip24" ITEMDESCRIPTION="Day 30 - Credit losses" ITEMLINK="54278419" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip26" ITEMDESCRIPTION="Day 30 - Correction of an error" ITEMLINK="54278695" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETDclip27" ITEMDESCRIPTION="Adding up journals and posting to the general ledger" ITEMLINK="54278696" TYPE="VIMEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="SJPETC" DESCTIPTION="SJPETC - Subsidiary journals and general ledger: Perpetual creditors">
+                    <P1 TITLE="SJPETC" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip1" ITEMDESCRIPTION="Introduction & Overview" ITEMLINK="54279907" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip2" ITEMDESCRIPTION="Day 1 - Credit purchases of trading inventory" ITEMLINK="54283040" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip3" ITEMDESCRIPTION="Day 4 - Cash purchases of consumables" ITEMLINK="54279906" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip4" ITEMDESCRIPTION="Day 5 - Returns to creditors (Original credit notes)" ITEMLINK="54283041" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip5" ITEMDESCRIPTION="Day 8 - Increasing petty cash float" ITEMLINK="54283042" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip6" ITEMDESCRIPTION="Day 9 - Payment to a creditor (No discount)" ITEMLINK="54279806" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip7" ITEMDESCRIPTION="Day 11 - Cash purchase of trading inventory" ITEMLINK="54283301" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip8" ITEMDESCRIPTION="Day 11 - Credit purchase of inventory" ITEMLINK="54280718" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip9" ITEMDESCRIPTION="Day 12 - Owner contributes a fixed asset to business" ITEMLINK="54280720" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip10" ITEMDESCRIPTION="Day 13 - Purchases of trading inventory (Trade discount received)" ITEMLINK="54283302" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip11" ITEMDESCRIPTION="Day 13 - Credit purchase of office consumables" ITEMLINK="54280968" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip12" ITEMDESCRIPTION="Day 14 - Cash purchase of stationery" ITEMLINK="54283304" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip13" ITEMDESCRIPTION="Day 16 - Trading inventory returned to supplier (Original credit note)" ITEMLINK="54280969" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip14" ITEMDESCRIPTION="Day 16 - Credit purchase of a non-allowable and an allowable supply" ITEMLINK="54280970" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip15" ITEMDESCRIPTION="Day 18 - Cash purchase of a passenger vehicle" ITEMLINK="54280971" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip16" ITEMDESCRIPTION="Day 20 - Settlement of account with a creditor (Discount received)" ITEMLINK="54281311" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip17" ITEMDESCRIPTION="Day 21 - Drawings of cash by the owner" ITEMLINK="54283303" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip18" ITEMDESCRIPTION="Day 21 - Drawings of inventory by the owner (Selling price given)" ITEMLINK="54281312" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip19" ITEMDESCRIPTION="Day 21 - Rebate on goods purchased previously (Original credit notes)" ITEMLINK="54281313" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip20" ITEMDESCRIPTION="Day 21 - Trading inventory purchased on credit (Trade discount received)" ITEMLINK="54281646" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip21" ITEMDESCRIPTION="Day 24 - Electricity charged on account" ITEMLINK="54285117" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip22" ITEMDESCRIPTION="Day 25 - Cash purchase of furniture & fittings" ITEMLINK="54285119" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip23" ITEMDESCRIPTION="Day 26 - Cash purchases of trading inventory" ITEMLINK="54281647" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip24" ITEMDESCRIPTION="Day 27 - Defective consumables returned to supplier (Original credit notes)" ITEMLINK="54281668" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip25" ITEMDESCRIPTION="Day 28 - Inventory returned to supplier (Original credit notes)" ITEMLINK="54285118" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip26" ITEMDESCRIPTION="Day 28 - Property rates charged on account (No services)" ITEMLINK="54286051" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip27" ITEMDESCRIPTION="Day 30 - Petty cash purchase of non-allowable supplies" ITEMLINK="54286052" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip28" ITEMDESCRIPTION="Day 30 - Salaries paid in cash" ITEMLINK="54281670" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip29" ITEMDESCRIPTION="Day 30 - Interest charged by creditor" ITEMLINK="54282003" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip30" ITEMDESCRIPTION="Day 30 - Correction of error" ITEMLINK="54286054" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPETCclip31" ITEMDESCRIPTION="Adding up journals and posting to general ledger" ITEMLINK="54282004" TYPE="VIMEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="SJPERD" DESCTIPTION="SJPERD - Subsidiary journals and general ledger: Periodic debtors">
+                    <P1 TITLE="SJPERD" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip1" ITEMDESCRIPTION="Introduction & Overview" ITEMLINK="54287149" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip2" ITEMDESCRIPTION="Day 1 - Owner contributes cash to business" ITEMLINK="54287792" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip3" ITEMDESCRIPTION="Day 2 - Credit sales of inventory (Periodic system)" ITEMLINK="54287152" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip4" ITEMDESCRIPTION="Day 8 - Cash sales of inventory (Periodic system)" ITEMLINK="54287150" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip5" ITEMDESCRIPTION="Day 12 - Credit sales of inventory (Trade discount given)" ITEMLINK="54287216" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip6" ITEMDESCRIPTION="Day 12 - Owner contrbutes a vehicle to business" ITEMLINK="54287794" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip7" ITEMDESCRIPTION="Day 13 - Trading inventoy returned (duplicate credit notes)" ITEMLINK="54287213" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip8" ITEMDESCRIPTION="Day 15 - Interest on fixed deposit" ITEMLINK="54287219" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip9" ITEMDESCRIPTION="Day 18 - Petty cash payment for packing material" ITEMLINK="54287795" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip10" ITEMDESCRIPTION="Day 19 - Credit sales of inventory" ITEMLINK="54288902" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip11" ITEMDESCRIPTION="Day 21 - Cash sales of inventory (Trade discount given)" ITEMLINK="54288977" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip12" ITEMDESCRIPTION="Day 21 - Drawings of inventory (Selling price & gross margin given)" ITEMLINK="54288903" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip13" ITEMDESCRIPTION="Day 22 - Purchase of coffee from petty cash" ITEMLINK="54288908" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip14" ITEMDESCRIPTION="Day 24 - Received business rental in cash" ITEMLINK="54288910" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip15" ITEMDESCRIPTION="Day 25 - Credit sales of trading inventory (Periodic system)" ITEMLINK="54288911" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip16" ITEMDESCRIPTION="Day 25 - Purchase of stationery from petty cash" ITEMLINK="54288920" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip17" ITEMDESCRIPTION="Day 26 - Returns of inventory by debtors (Duplicate credit notes)" ITEMLINK="54288978" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip18" ITEMDESCRIPTION="Day 26 - Cash receipt from debtor (No discount)" ITEMLINK="54288917" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip19" ITEMDESCRIPTION="Day 27 - Cash sales of inventory (Periodic system)" ITEMLINK="54358714" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip20" ITEMDESCRIPTION="Day 27 - Drawings of cash from petty cash" ITEMLINK="54358715" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip21" ITEMDESCRIPTION="Day 28 - Returns of inventory by debtors (Duplicate credit notes)" ITEMLINK="54358716" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip22" ITEMDESCRIPTION="Day 30 - Account settlement by debtor (Discount allowed)" ITEMLINK="54359031" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip23" ITEMDESCRIPTION="Day 30 - Credit losses" ITEMLINK="54359032" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip25" ITEMDESCRIPTION="Day 30 - Correcting an error" ITEMLINK="54359036" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERDclip26" ITEMDESCRIPTION="Adding up journals and posting to general ledger" ITEMLINK="54359038" TYPE="VIMEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="SJPERC" DESCTIPTION="SJPERC - Subsidiary journals and general ledger: Periodic creditors">
+                    <P1 TITLE="SJPERC" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip1" ITEMDESCRIPTION="Introduction" ITEMLINK="54359570" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip2" ITEMDESCRIPTION="Overview" ITEMLINK="54360161" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip3" ITEMDESCRIPTION="Day 1 - Credit purchase of inventory" ITEMLINK="54359576" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip4" ITEMDESCRIPTION="Day 4 - Cash payment for repairs and maintenance" ITEMLINK="54361820" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip5" ITEMDESCRIPTION="Day 5 - Inventory returned to supplier (Orignal credit notes)" ITEMLINK="54360162" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip6" ITEMDESCRIPTION="Day 8 - Cash cheque issued for wages" ITEMLINK="54360644" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip7" ITEMDESCRIPTION="Day 9 - Cash payment to a creditor (No discount)" ITEMLINK="54363239" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip8" ITEMDESCRIPTION="Day 11 - Purchases of inventory (Cash & credit)" ITEMLINK="54361821" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip9" ITEMDESCRIPTION="Day 12 - Capital contribution by owner (Non-cash)" ITEMLINK="54361914" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip10" ITEMDESCRIPTION="Day 13 - Cash purchases of inventory (Trade discount given)" ITEMLINK="54361825" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip11" ITEMDESCRIPTION="Day 13 - Credit purchase of consumables" ITEMLINK="54364109" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip12" ITEMDESCRIPTION="Day 14 - Cash purchase of postage and stationery" ITEMLINK="54363240" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip13" ITEMDESCRIPTION="Day 16 - Inventory returned to supplier (Original credit notes)" ITEMLINK="54361913" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip14" ITEMDESCRIPTION="Day 16 - Credit purchase of furniture and fittings (Allowable vs. non-allowable)" ITEMLINK="54364202" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip15" ITEMDESCRIPTION="Day 18 - Cash purchase of non-allowable item" ITEMLINK="54364110" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip16" ITEMDESCRIPTION="Day 20 - Settlement of account with a creditor (Discount received)" ITEMLINK="54366084" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip17" ITEMDESCRIPTION="Day 21 - Drawings of cash by the owner" ITEMLINK="54364472" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip18" ITEMDESCRIPTION="Day 21 - Drawings of inventory by the owner (selling price given)" ITEMLINK="54428493" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip19" ITEMDESCRIPTION="Day 21 - Rebate granted on non-allowable item (Original credit note)" ITEMLINK="54364473" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip20" ITEMDESCRIPTION="Day 21 - Credit purchase of inventory (Trade discount given)" ITEMLINK="54364478" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip21" ITEMDESCRIPTION="Day 24 - Credit purchase of cleaning materials" ITEMLINK="54429272" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip22" ITEMDESCRIPTION="Day 25 - Cash purchase of computer equipment" ITEMLINK="54366860" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip23" ITEMDESCRIPTION="Day 26 - Cash purchase of inventory" ITEMLINK="54366859" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip24" ITEMDESCRIPTION="Day 27 - Faulty consumables returned to supplier (Original credit note)" ITEMLINK="54366865" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip25" ITEMDESCRIPTION="Day 28 - Inventory returned to supplier (Original credit note)" ITEMLINK="54429274" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip26" ITEMDESCRIPTION="Day 28 - Credit purchase from a non-VAT vendor" ITEMLINK="54429275" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip27" ITEMDESCRIPTION="Day 31 - Cash purchase of office refeshments (Non-allowable item)" ITEMLINK="54428492" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip28" ITEMDESCRIPTION="Day 31 - Cash payment of salaries" ITEMLINK="54428491" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip29" ITEMDESCRIPTION="Day 31 - Interest expense (VAT exempt supply)" ITEMLINK="54429277" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip30" ITEMDESCRIPTION="Day 31 - Correction of an error" ITEMLINK="54429276" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SJPERCclip31" ITEMDESCRIPTION="Adding up journals and posting to general ledger" ITEMLINK="54434123" TYPE="VIMEO"/>
+                    </P1>
+                </MENUITEM>
+            </MEN>
+            <MEN MID="135">
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="BKTB2" DESCTIPTION="BKTB2 - Accounting equation: VAT included">
+                    <P1 TITLE="BKTB2" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip1" ITEMDESCRIPTION="Introduction" ITEMLINK="54364696" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip2" ITEMDESCRIPTION="Important information about this question" ITEMLINK="54364697" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip3" ITEMDESCRIPTION="Day 1 - Capital contribution by the owner (cash)" ITEMLINK="54429504" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip4" ITEMDESCRIPTION="Day 3 - Cash purchase of inventory" ITEMLINK="54429506" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip5" ITEMDESCRIPTION="Day 4 - Cash payment of telephone expense" ITEMLINK="54429507" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip6" ITEMDESCRIPTION="Day 6 - Credit purchase of inventory" ITEMLINK="54365667" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip7" ITEMDESCRIPTION="Day 7 - Returns of inventory to a creditor" ITEMLINK="54365668" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip8" ITEMDESCRIPTION="Day 8 - Settlement discount received (Creditors)" ITEMLINK="54429505" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip9" ITEMDESCRIPTION="Day 9 - Cash sale of inventory (Gross margin)" ITEMLINK="54434459" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip10" ITEMDESCRIPTION="Day 11 - Cash purchase of office furniture" ITEMLINK="54365664" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip11" ITEMDESCRIPTION="Day 13 - Cheque issued for petty cash" ITEMLINK="54366728" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip12" ITEMDESCRIPTION="Day 14 - Supplementary income received in cash" ITEMLINK="54366719" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip13" ITEMDESCRIPTION="Day 15 - Capital contribution by the owner (Non-cash)" ITEMLINK="54366722" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip14" ITEMDESCRIPTION="Day 17 - Credit sale of inventory (Mark-up on cost)" ITEMLINK="54366723" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip15" ITEMDESCRIPTION="Day 18 - Returns of inventory by a debtor" ITEMLINK="54366724" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip16" ITEMDESCRIPTION="Day 20 - Settlement discount granted (Debtors)" ITEMLINK="54434185" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip17" ITEMDESCRIPTION="Day 21 - Drawings of cash by the owner" ITEMLINK="54368346" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip18" ITEMDESCRIPTION="Day 22 - Credit purchase of equipment" ITEMLINK="54368347" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip19" ITEMDESCRIPTION="Day 24 - Credit sale of inventory (Mark-up on cost)" ITEMLINK="54368348" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip20" ITEMDESCRIPTION="Day 25 - Credit losses (Bad debts)" ITEMLINK="54368350" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip21" ITEMDESCRIPTION="Day 26 - Purchase of zero-rated supply" ITEMLINK="54368359" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip22" ITEMDESCRIPTION="Day 27 - Drawings of inventory by the owner" ITEMLINK="54368364" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BKTB2clip23" ITEMDESCRIPTION="Day 28 - Interest earned (exempt supply)" ITEMLINK="54368369" TYPE="VIMEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="SUBLDB" DESCTIPTION="SUBLDB - Subsidiary ledger: Debtors">
+                    <P1 TITLE="SUBLDB" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLDBclip1" ITEMDESCRIPTION="Introduction & Overview" ITEMLINK="54436922" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLDBclip2" ITEMDESCRIPTION="Q. Quebec" ITEMLINK="54436923" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLDBclip3" ITEMDESCRIPTION="H. Henry" ITEMLINK="54428802" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLDBclip4" ITEMDESCRIPTION="K. Kurt" ITEMLINK="54428800" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLDBclip5" ITEMDESCRIPTION="K. Legget & L. Red" ITEMLINK="54436924" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLDBclip6" ITEMDESCRIPTION="Debtors control account" ITEMLINK="54436927" TYPE="VIMEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="SUBLCR" DESCTIPTION="SUBLCR - Subsidiary ledger: Creditors">
+                    <P1 TITLE="SUBLCR" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLCRclip1" ITEMDESCRIPTION="Introduction & Overview" ITEMLINK="54441151" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLCRclip2" ITEMDESCRIPTION="SA Steel Ltd." ITEMLINK="54441143" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLCRclip3" ITEMDESCRIPTION="Reveret Suppliers" ITEMLINK="54441144" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLCRclip4" ITEMDESCRIPTION="Game" ITEMLINK="54441147" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLCRclip5" ITEMDESCRIPTION="Horner Traders" ITEMLINK="54441150" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLCRclip6" ITEMDESCRIPTION="Supply Land" ITEMLINK="54442255" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="SUBLCRclip7" ITEMDESCRIPTION="Creditors control account" ITEMLINK="54442257" TYPE="VIMEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="BANREC" DESCTIPTION="BANREC - Bank Reconciliation">
+                    <P1 TITLE="BANREC" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BANKRECclip1" ITEMDESCRIPTION="Introduction & Overview" ITEMLINK="54442256" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BANKRECclip2" ITEMDESCRIPTION="Enter opening balances" ITEMLINK="54509884" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BANKRECclip3" ITEMDESCRIPTION="Step 1" ITEMLINK="54511055" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BANKRECclip4" ITEMDESCRIPTION="Step 2" ITEMLINK="54509882" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BANKRECclip5" ITEMDESCRIPTION="Step 3" ITEMLINK="54510258" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BANKRECclip6" ITEMDESCRIPTION="Step 4" ITEMLINK="54510257" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BANKRECclip7" ITEMDESCRIPTION="Step 5" ITEMLINK="54510259" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BANKRECclip8" ITEMDESCRIPTION="Step 6" ITEMLINK="54511053" TYPE="VIMEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="BANKRECclip9" ITEMDESCRIPTION="Step 7" ITEMLINK="54511054" TYPE="VIMEO"/>
+                    </P1>
+                </MENUITEM>
+            </MEN>
+        </SIDEMENUS>
+    </ITEMS>
+</MAIN>

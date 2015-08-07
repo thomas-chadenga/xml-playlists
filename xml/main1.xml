@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAIN>
+	<APP REG="false" TRAININGPROVIDER="true" ID="ccce9cf163e08fa35d81e64719a54e89" TITLE="Business Management 2" TAGLINE="Learner DVD" HEADERIMAGE="main/images/logo-interface.png" COBRANDING="main/images/upload-boston.png" REGHEADER="main/images/logo_reg.png" COPYRIGHT="Copyright EDGE Learning Media CC 2015" MENUTITLE="Menu" REGURL="http://register.edgelearningmedia.com/modules/mod_edgemediaAPI/helpers/registration.php?" AID="3y456t245zxs45fnjn56" SKU="978-1-77586-289-5"/>
+	<STYLE HEADERBACK1MC="0xFFFFFF" HEADERBACK2MC="0x832b79" MENUBACKMC="0x832b79" CRUMBSBACKMC="0xffd22a" AREA1MC="0xFFFFFF" AREA2MC="0x6d6e71" AREA3MC="0xf49519" FOOTERBACKMC="0x000000"/>
+	<ITEMS>
+		<SIDEMENUS>
+			<MEN MID="0">
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Welcome" DESCTIPTION="Welcome to Business Management 2">
+					<P1 TITLE="Welcome" TYPE="CONTENT">
+						<CONTENT>
+							<![CDATA[<b>Business Management 2</b><br /><br />Boston City Campus and Business College believes in education for life. Its award-winning institutions have a proven track record of excellence in tertiary training, offering a variety of degrees, diplomas and short courses. With over 40 campuses in South Africa and neighbouring countries, Boston has you covered, and its emphasis on ‘real world experience’ means you can enter the job market with confidence. Moreover, its institutions and campuses understand that education is about developing the individual and nurturing their potential. Each Boston graduate is provided with the knowledge and understanding to fulfil this potential and succeed in their chosen career.<br /><br />Boston City Campus and Business College has the content, facilities and technologies to ensure you receive a world-class education; and its focus on practical experience means that you will be ready to make your mark in the real economy – starting now.<br /><br />Business Management 2 is a practical and comprehensive guide to the basic concepts and principles of strategic management. The purpose of this textbook is to introduce students studying towards a qualification in commerce to the current terminology and concepts which this subject field has to offer.<br /><br />On completion of this course students should be able to:<br /><br />
+•	Illustrate a basic understanding of strategic management<br /><br />
+•	Formulate a strategic direction for an organisation<br /><br />
+•	Understand the context of strategic selection<br /><br />
+•	Formulate ‘SMART’ goals and objectives for an organisation<br /><br />
+•	Identify and formulate different strategies for an organisation<br /><br />
+•	Evaluate and select the most appropriate strategy for an organisation<br /><br />
+•	Implement a chosen strategy correctly<br /><br />
+•	Continually improve an organisation through strategic control and evaluation<br /><br />
+•	Manage strategic changes in an organisation sensitively and with a greater goal in mind<br />]]>
+						</CONTENT>
+					</P1>
+					<P2 TITLE="About EDGE" TYPE="CONTENT" LOCK="true">
+							<CONTENT>
+							<![CDATA[<b>Welcome to Edge Learning Media – specialists in business school learning media!</b><br /><br />EDGE Learning Media is a dynamic South African business with a visionary and innovative approach to education. Using a full-service publishing model, we are able to design and build bespoke learning content for institutions, training providers and anyone else. This means that our clients come to us with their specific learning material needs, and we endeavour to meet them.<br /><br />We specialise in an extensive range of business school subjects, including (among many others) bookkeeping and accounting, tax, office administration, financial management, human resource management, computyping, end-user computing, business English and business mathematics, business law and accounting control, governance, banking and personal finance.<br /><br />Our learning media includes textbooks, study and solutions guides, workbooks, lecturer guides, CDs, sample assessment question and memorandum preparation and online facilitator and lecturer support.<br /><br />Please do not hesitate to contact us if you have any queries.<br /><br />Edge Learning Media Support Team<br /><br />T: +27 21 702 0686<br />F: +27 86 510 2259<br />E-mail: info@edgelearningmedia.com<br />www.edgelearningmedia.com<br>]]>
+						</CONTENT>
+					</P2>
+					<P3 TITLE="Useful Links" TYPE="LIST" LOCK="true">
+						<POSITEM ICON="main/images/icons/http.png" ITEMNAME="" ITEMDESCRIPTION="Visit EDGE Learning Media" ITEMLINK="http://www.edgelearningmedia.com" TYPE="HTTP"/>
+						<POSITEM ICON="main/images/icons/http.png" ITEMNAME="" ITEMDESCRIPTION="Visit Upload Media" ITEMLINK="http://www.upload-media.com" TYPE="HTTP"/>
+						<POSITEM ICON="main/images/icons/http.png" ITEMNAME="" ITEMDESCRIPTION="Visit Boston City Campus" ITEMLINK="http://www.boston.co.za/" TYPE="HTTP"/>
+					</P3>
+				</MENUITEM>
+				<MENUITEM MENUTYPE="MENU" CHILDMENUMID="1" TITLE="Upload Media Video Playlist" DESCTIPTION="Concept Videos - Bite-sized Units of Knowledge"/>
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Exercise Solutions" DESCTIPTION="Get your solutions">
+					<P1 TITLE="Exercise Solutions" TYPE="LIST">
+<POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="Unit 1" ITEMDESCRIPTION="Introduction to strategic management" ITEMLINK="main/pdfs/exercise_solution_u1.pdf" TYPE="HTTP"/>
+<POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="Unit 2" ITEMDESCRIPTION="Formulating a strategic direction" ITEMLINK="main/pdfs/exercise_solution_u2.pdf" TYPE="HTTP"/>
+<POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="Unit 3" ITEMDESCRIPTION="The context of strategic selection" ITEMLINK="main/pdfs/exercise_solution_u3.pdf" TYPE="HTTP"/>
+<POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="Unit 4" ITEMDESCRIPTION="The formulation of corporate goals and objectives" ITEMLINK="main/pdfs/exercise_solution_u4.pdf" TYPE="HTTP"/>
+<POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="Unit 5" ITEMDESCRIPTION="Strategy identification and formulation" ITEMLINK="main/pdfs/exercise_solution_u5.pdf" TYPE="HTTP"/>
+<POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="Unit 6" ITEMDESCRIPTION="Strategy evaluation and selection - Part 1" ITEMLINK="main/pdfs/exercise_solution_u6.pdf" TYPE="HTTP"/>
+<POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="Unit 7" ITEMDESCRIPTION="Strategy evaluation and selection - Part 2" ITEMLINK="main/pdfs/exercise_solution_u7.pdf" TYPE="HTTP"/>
+<POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="Unit 8" ITEMDESCRIPTION="Strategy implementation" ITEMLINK="main/pdfs/exercise_solution_u8.pdf" TYPE="HTTP"/>
+<POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="Unit 9" ITEMDESCRIPTION="Continuous improvement through strategic control and evaluation" ITEMLINK="main/pdfs/exercise_solution_u9.pdf" TYPE="HTTP"/>
+<POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="Unit 10" ITEMDESCRIPTION="Managing and leading change" ITEMLINK="main/pdfs/exercise_solution_u10.pdf" TYPE="HTTP"/>
+					</P1>
+				</MENUITEM>
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Generic Course Information" DESCTIPTION="Get your course information">
+					<P1 TITLE="Generic Course Information" TYPE="LIST">
+<POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="Generic Course Information" ITEMDESCRIPTION="Boston City Campus & Business College" ITEMLINK="main/pdfs/courseinfo.pdf" TYPE="HTTP"/>
+					</P1>
+				</MENUITEM>
+			</MEN>
+			<MEN MID="1">
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="NULL" TITLE="Unit 1" DESCTIPTION="Introduction to strategic management">
+					<P1 TITLE="Unit 1" TYPE="LIST">
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVFSD" ITEMDESCRIPTION="Features of strategic decisions" ITEMLINK="main/video/72257507.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVBBSM" ITEMDESCRIPTION="Building blocks of strategic management" ITEMLINK="main/video/56622986.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVAST" ITEMDESCRIPTION="Aligning information systems with the overall strategy of the business" ITEMLINK="main/video/76681690.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVFASM" ITEMDESCRIPTION="Functional aspects of strategic management" ITEMLINK="main/video/116525958.mp4" TYPE="VIDEO"/>
+					</P1>
+				</MENUITEM>
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="NULL" TITLE="Unit 2" DESCTIPTION="Formulating a strategic direction">
+					<P1 TITLE="Unit 2" TYPE="LIST">
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVWRP" ITEMDESCRIPTION="What is rational planning?" ITEMLINK="main/video/56681570.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVMSSM" ITEMDESCRIPTION="Mission statements in strategic management" ITEMLINK="main/video/53921948.mp4" TYPE="VIDEO"/>
+					</P1>
+				</MENUITEM>
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="NULL" TITLE="Unit 3" DESCTIPTION="The context of strategic selection">
+					<P1 TITLE="Unit 3" TYPE="LIST">
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVUSA" ITEMDESCRIPTION="Understanding strategic analysis" ITEMLINK="main/video/56680035.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVEEA" ITEMDESCRIPTION="External environmental analysis" ITEMLINK="main/video/56630578.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVMPV" ITEMDESCRIPTION="Porters Value Chain Model" ITEMLINK="main/video/116540721.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVMTE" ITEMDESCRIPTION="The market or task environment" ITEMLINK="main/video/64709006.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVIEA" ITEMDESCRIPTION="Internal environmental analysis" ITEMLINK="main/video/56681023.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVHRM" ITEMDESCRIPTION="What is strategic human resource management?" ITEMLINK="main/video/60824211.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVSMP" ITEMDESCRIPTION="The strategic marketing plan" ITEMLINK="main/video/64867269.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVCMN" ITEMDESCRIPTION="Capacity management in a nutshell" ITEMLINK="main/video/84942942.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVMCD" ITEMDESCRIPTION="Managing the balance between capacity and demand" ITEMLINK="main/video/84945937.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVSCM" ITEMDESCRIPTION="Supply chain management and purchasing" ITEMLINK="main/video/85230441.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVSCN" ITEMDESCRIPTION="Supply chain networks in a nutshell" ITEMLINK="main/video/79957140.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVSWOT" ITEMDESCRIPTION="SWOT analysis method" ITEMLINK="main/video/49217404.mp4" TYPE="VIDEO"/>
+					</P1>
+				</MENUITEM>
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="NULL" TITLE="Unit 4" DESCTIPTION="The formulation of corporate goals and objectives">
+					<P1 TITLE="Unit 4" TYPE="LIST">
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVMSSM" ITEMDESCRIPTION="Mission statements in strategic management" ITEMLINK="main/video/53921948.mp4" TYPE="VIDEO"/>
+					</P1>
+				</MENUITEM>
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="NULL" TITLE="Unit 5" DESCTIPTION="Strategy identification and formulation">
+					<P1 TITLE="Unit 5" TYPE="LIST">
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVCSGS" ITEMDESCRIPTION="Corporate strategies and growth strategies" ITEMLINK="main/video/59979038.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVIGS" ITEMDESCRIPTION="Internal growth strategies" ITEMLINK="main/video/60148314.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVWDS" ITEMDESCRIPTION="What is decline strategy?" ITEMLINK="main/video/67629759.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVCCS" ITEMDESCRIPTION="Corporate combination strategies" ITEMLINK="main/video/60058710.mp4" TYPE="VIDEO"/>
+					</P1>
+				</MENUITEM>
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="NULL" TITLE="Unit 6" DESCTIPTION="Strategy evaluation and selection - Part 1">
+					<P1 TITLE="Unit 6" TYPE="LIST">
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVDTD" ITEMDESCRIPTION="Decision tree diagrams" ITEMLINK="main/video/59992705.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVSPT" ITEMDESCRIPTION="Strategic planning techniques" ITEMLINK="main/video/60449624.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVDMA" ITEMDESCRIPTION="Decision making authority and management in organisations" ITEMLINK="main/video/116532311.mp4" TYPE="VIDEO"/>
+					</P1>
+				</MENUITEM>
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="NULL" TITLE="Unit 7" DESCTIPTION="Strategy evaluation and selection - Part 2">
+					<P1 TITLE="Unit 7" TYPE="LIST">
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVCFP" ITEMDESCRIPTION="Corporate and Functional plans" ITEMLINK="main/video/53923777.mp4" TYPE="VIDEO"/>
+				</P1>
+				</MENUITEM>
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="NULL" TITLE="Unit 8" DESCTIPTION="Strategy implementation">
+					<P1 TITLE="Unit 8" TYPE="LIST">
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVBSSI" ITEMDESCRIPTION="Barriers to successful strategy implementation" ITEMLINK="main/video/53923774.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVHSIS" ITEMDESCRIPTION="How to successfully implement strategy" ITEMLINK="main/video/53917849.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVDISI" ITEMDESCRIPTION="Drivers and instruments for strategic implementation" ITEMLINK="main/video/56628142.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVQSRL" ITEMDESCRIPTION="Qualities and skills required by leaders" ITEMLINK="main/video/56678369.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVTOS" ITEMDESCRIPTION="Types of strategies" ITEMLINK="main/video/56678595.mp4" TYPE="VIDEO"/>
+					</P1>
+				</MENUITEM>
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="NULL" TITLE="Unit 9" DESCTIPTION="Continuous improvement through strategic control and evaluation">
+					<P1 TITLE="Unit 9" TYPE="LIST">
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVTSC" ITEMDESCRIPTION="Types of strategic control" ITEMLINK="main/video/60451255.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVBSE" ITEMDESCRIPTION="The balanced scorecard explained" ITEMLINK="main/video/59976181.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVMCG" ITEMDESCRIPTION="The meaning of corporate governance" ITEMLINK="main/video/80343018.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVHSCA" ITEMDESCRIPTION="How to sustain competitive advantage" ITEMLINK="main/video/67627268.mp4" TYPE="VIDEO"/>
+					</P1>
+				</MENUITEM>
+				<MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="NULL" TITLE="Unit 10" DESCTIPTION="Managing and leading change">
+					<P1 TITLE="Unit 10" TYPE="LIST">
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVDOS" ITEMDESCRIPTION="Designing an organisational structure" ITEMLINK="main/video/80968604.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVTCP" ITEMDESCRIPTION="The change process" ITEMLINK="main/video/120034235.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVOMF" ITEMDESCRIPTION="An overview of management functions" ITEMLINK="main/video/61513535.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVIGC" ITEMDESCRIPTION="Intra-group communication" ITEMLINK="main/video/56677736.mp4" TYPE="VIDEO"/>
+<POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVOBH" ITEMDESCRIPTION="Organisational behaviour" ITEMLINK="main/video/70393162.mp4" TYPE="VIDEO"/>
+					</P1>
+				</MENUITEM>
+			</MEN>
+		</SIDEMENUS>
+	</ITEMS>
+</MAIN>

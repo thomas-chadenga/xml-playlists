@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MAIN>
+    <APP REGGROUP='default' REG='false' TRAININGPROVIDER='false' ID='29009d240d534bda3dda0a5867b1e629' TITLE='accounting 2' TAGLINE='learning area 2' HEADERIMAGE='main/images/logo-interface-edge.png' COBRANDING='main/images/upload-icb.png' REGHEADER='main/images/logo_reg.png' COPYRIGHT='Copyright Upload-Media CC 2015' MENUTITLE='Menu' REGURL='http://register.upload-media.com/modules/mod_edgemediaAPI/helpers/registration.php?' AID='3y456t245zxs45fnjn56' SKU='978-1-920617-29-5'/>
+    <STYLE HEADERBACK1MC='0xFFFFFF' HEADERBACK2MC='0x0000cc' MENUBACKMC='0xcc0000' CRUMBSBACKMC='0xc8dce8' AREA1MC='0xFFFFFF' AREA2MC='0x076fb4' AREA3MC='0xaabdc8' FOOTERBACKMC='0x076fb4/>
+    <ITEMS>
+        <SIDEMENUS>
+            <MEN MID='0'>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Welcome' DESCTIPTION='Welcome to Upload Media'>
+                    <P1 TITLE='Welcome' TYPE='CONTENT'>
+                        <CONTENT>
+                            <![CDATA[Welcome, this is Accounting 2]]>
+                        </CONTENT>
+                    </P1>
+                    <P2 TITLE='Revision Video' TYPE='LIST' LOCK='true'>
+                        <POSITEM ICON='main/images/icons/pdf.png' ITEMNAME='' ITEMDESCRIPTION='Questions and Answer Templates' ITEMLINK='main/pdfs/bktb_section_a.pdf' TYPE='HTTP'/>
+                    </P2>
+                    <P3 TITLE='Websites' TYPE='LIST' LOCK='true'>
+                        <POSITEM ICON='main/images/icons/http.png' ITEMNAME='' ITEMDESCRIPTION='Visit Upload Media' ITEMLINK='http://www.upload-media.com' TYPE='HTTP'/>
+                        <POSITEM ICON='main/images/icons/http.png' ITEMNAME='' ITEMDESCRIPTION='Visit EDGE Learning Media' ITEMLINK='http://www.edgelearningmedia.com' TYPE='HTTP'/>
+                        <POSITEM ICON='main/images/icons/http.png' ITEMNAME='' ITEMDESCRIPTION='Visit the ICB' ITEMLINK='http://www.icb.org.za' TYPE='HTTP'/>
+                    </P3>
+                </MENUITEM>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVEXZE' ITEMDESCRIPTION='The difference between exempt and zero-rated supplies' ITEMLINK='main/video/48302861.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVTAXI' ITEMDESCRIPTION='What constitutes a valid tax invoice?' ITEMLINK='main/video/49219486.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVVCAL' ITEMDESCRIPTION='VAT calculations' ITEMLINK='main/video/49227794.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVPVI' ITEMDESCRIPTION='Payments vs. invoice basis' ITEMLINK='main/video/80595836.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVV201' ITEMDESCRIPTION='VAT 201 return in South Africa' ITEMLINK='main/video/48308424.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVCIS' ITEMDESCRIPTION='Controls implemented by SARS' ITEMLINK='main/video/60071501.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 2' DESCTIPTION=' Unit 2 - Recording business financial transactions - Part 1'>
+                    <P1 TITLE='Unit 2' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVACO' ITEMDESCRIPTION='The accounting cycle : an overview' ITEMLINK='main/video/59971967.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVUSUB' ITEMDESCRIPTION='Understanding subsidiary journals' ITEMLINK='main/video/48308421.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVGLA' ITEMDESCRIPTION='General ledger accounts' ITEMLINK='main/video/57933876.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVMACC' ITEMDESCRIPTION='Movements under the accounting equation' ITEMLINK='main/video/48303786.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDEFA' ITEMDESCRIPTION='Defining assets' ITEMLINK='main/video/48299766.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDEFL' ITEMDESCRIPTION='Defining liabilities' ITEMLINK='main/video/48299769.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVRAF' ITEMDESCRIPTION='The rules and facts of accounting' ITEMLINK='main/video/107905665.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 3' DESCTIPTION=' Unit 3 - Recording business financial transactions – Part 2'>
+                    <P1 TITLE='Unit 3' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVBSD' ITEMDESCRIPTION='Bookkeeping source documents' ITEMLINK='main/video/59974546.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVRBS' ITEMDESCRIPTION='How to read a bank statement' ITEMLINK='main/video/60434460.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVSDQ' ITEMDESCRIPTION='Source documents: cheque counterfoil' ITEMLINK='main/video/68761284.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVSDI' ITEMDESCRIPTION='Source documents: credit invoices' ITEMLINK='main/video/67199902.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVVATR' ITEMDESCRIPTION='Why a cash receipt does not display a VAT number' ITEMLINK='main/video/48308452.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDNCN' ITEMDESCRIPTION='Distinguishing between debit notes and credit notes' ITEMLINK='main/video/49227334.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVTDSD' ITEMDESCRIPTION='The difference between a trade discount and a settlement discount' ITEMLINK='main/video/49227332.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVTPS' ITEMDESCRIPTION='The petty cash system' ITEMLINK='main/video/70918784.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDCBK' ITEMDESCRIPTION='Drafting a cashbook' ITEMLINK='main/video/48299760.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVUNGJ' ITEMDESCRIPTION='Understanding the general journal' ITEMLINK='main/video/49227335.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVCDP' ITEMDESCRIPTION='Capital and drawings: the proprietor’s accounts' ITEMLINK='main/video/57935367.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVCRLS' ITEMDESCRIPTION='How to record credit losses (bad debts)' ITEMLINK='main/video/49227330.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVRCSD' ITEMDESCRIPTION='How to record settlement discounts' ITEMLINK='main/video/49219479.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVCALI' ITEMDESCRIPTION='How to calculate and record interest' ITEMLINK='main/video/56626618.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVGLA' ITEMDESCRIPTION='General ledger accounts' ITEMLINK='main/video/57933876.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVMSCR' ITEMDESCRIPTION='Making sense of cross-references' ITEMLINK='main/video/48303789.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVAPCR' ITEMDESCRIPTION='Accounts payable (creditors) reconciliation' ITEMLINK='main/video/50125327.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVITTB' ITEMDESCRIPTION='Interpreting a trial balance' ITEMLINK='main/video/48302870.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVINBR' ITEMDESCRIPTION='How to interpret a bank reconciliation statement' ITEMLINK='main/video/48302869.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVWHCA' ITEMDESCRIPTION='Why have control accounts for debtors and creditors?' ITEMLINK='main/video/48439110.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVACRE' ITEMDESCRIPTION='Accounts receivable debtors reconciliation' ITEMLINK='main/video/56622985.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDSJN' ITEMDESCRIPTION='Drafting supplier journals' ITEMLINK='main/video/48439111.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVMUMR' ITEMDESCRIPTION='Mark-ups and margins' ITEMLINK='main/video/64639987.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDCJN' ITEMDESCRIPTION='Drafting customer journals' ITEMLINK='main/video/48299767.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVBALA' ITEMDESCRIPTION='How to balance a general ledger account' ITEMLINK='main/video/48439082.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVCLL' ITEMDESCRIPTION='The creditors ledger and list' ITEMLINK='main/video/61699848.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDLL' ITEMDESCRIPTION='The debtors ledger and list' ITEMLINK='main/video/62065051.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDRTB' ITEMDESCRIPTION='Drafting a trial balance' ITEMLINK='main/video/53925521.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDRWI' ITEMDESCRIPTION='Drawings by a sole proprietor (including VAT implications)' ITEMLINK='main/video/48302054.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 4' DESCTIPTION=' Unit 4 -  Correction of errors and suspense accounts'>
+                    <P1 TITLE='Unit 4' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVCORE' ITEMDESCRIPTION='How to correct an error in the books' ITEMLINK='main/video/49219450.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVLBS' ITEMDESCRIPTION='Land and buildings and suspense accounts' ITEMLINK='main/video/56677737.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 5' DESCTIPTION=' Unit 5 - Year-end procedures'>
+                    <P1 TITLE='Unit 5' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVACYE' ITEMDESCRIPTION='The purpose of running an accounting year-end' ITEMLINK='main/video/48291937.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVBIS' ITEMDESCRIPTION='The basic structure of an income statement' ITEMLINK='main/video/60079268.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVBBS' ITEMDESCRIPTION='The basic structure of a balance sheet' ITEMLINK='main/video/56626617.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVCTN' ITEMDESCRIPTION='Closing transfers in a nutshell' ITEMLINK='main/video/88420541.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 6' DESCTIPTION=' Unit 6 - Depreciable assets - Part 1'>
+                    <P1 TITLE='Unit 6' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDEFA' ITEMDESCRIPTION='Defining assets' ITEMLINK='main/video/48299766.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVMDEP' ITEMDESCRIPTION='Methods of depreciation' ITEMLINK='main/video/48303788.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVACDE' ITEMDESCRIPTION='Accounting entries for depreciation' ITEMLINK='main/video/48291934.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVACDP' ITEMDESCRIPTION='Accounting entries for asset disposal' ITEMLINK='main/video/48291935.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 7' DESCTIPTION=' Unit 7 - Depreciable assets – Part 2'>
+                    <P1 TITLE='Unit 7' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVACDP' ITEMDESCRIPTION='Accounting entries for asset disposal' ITEMLINK='main/video/48291935.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDPE' ITEMDESCRIPTION='Disclosure of property, plant and equipment (tangible assets)' ITEMLINK='main/video/71569682.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 8' DESCTIPTION=' Unit 8 - Financial statements of the sole trader - Part 1'>
+                    <P1 TITLE='Unit 8' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVACCN' ITEMDESCRIPTION='The accrual concept' ITEMLINK='main/video/48141058.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVQCFI' ITEMDESCRIPTION='Qualitative characteristics of financial statements' ITEMLINK='main/video/56678367.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVADAI' ITEMDESCRIPTION='Adjustment for accrued income' ITEMLINK='main/video/59971969.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVACEP' ITEMDESCRIPTION='Adjustments for accrued expenses' ITEMLINK='main/video/50125324.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVADPE' ITEMDESCRIPTION='Adjustments for prepaid expenses' ITEMLINK='main/video/53924831.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVADIA' ITEMDESCRIPTION='Adjustments for income received in advance' ITEMLINK='main/video/53924830.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVACSH' ITEMDESCRIPTION='Adjustments for consumable stores on hand' ITEMLINK='main/video/57202836.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVAIOI' ITEMDESCRIPTION='Adjustments for inventory shortages' ITEMLINK='main/video/59973415.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 9' DESCTIPTION=' Unit 9 - Financial statements of the sole trader - Part 2'>
+                    <P1 TITLE='Unit 9' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVACLA' ITEMDESCRIPTION='Actual credit losses written off' ITEMLINK='main/video/48291936.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVADCL' ITEMDESCRIPTION='Allowance for credit losses adjustment' ITEMLINK='main/video/48291939.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDPE' ITEMDESCRIPTION='Disclosure of property, plant and equipment (tangible assets)' ITEMLINK='main/video/71569682.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 10' DESCTIPTION=' Unit 10 - Financial statements of the sole trader - Part 3'>
+                    <P1 TITLE='Unit 10' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVPEPE' ITEMDESCRIPTION='Perpetual vs. Periodic inventory systems - an overview' ITEMLINK='main/video/49219478.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVCALI' ITEMDESCRIPTION='How to calculate and record interest' ITEMLINK='main/video/56626618.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVCLRE' ITEMDESCRIPTION='How to record credit losses/bad debts recovered' ITEMLINK='main/video/56624456.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 11' DESCTIPTION=' Unit 11 - Financial statement of the sole trader - Part 4'>
+                    <P1 TITLE='Unit 11' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVPVP' ITEMDESCRIPTION='Periodic inventory system versus Perpetual inventory system' ITEMLINK='main/video/60638074.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVBPEPE' ITEMDESCRIPTION='Which is the better system - Periodic or Perpetual?' ITEMLINK='main/video/48299663.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 12' DESCTIPTION=' Unit 12 - Inventory valuation'>
+                    <P1 TITLE='Unit 12' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVFIFO' ITEMDESCRIPTION='FIFO: Inventory valuation method' ITEMLINK='main/video/64874453.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVWAVE' ITEMDESCRIPTION='Inventory valuation: Weighted average method' ITEMLINK='main/video/50127084.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 13' DESCTIPTION=' Unit 13 - Incomplete records - Part 1'>
+                    <P1 TITLE='Unit 13' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVFOIN' ITEMDESCRIPTION='Formal vs. informal businesses' ITEMLINK='main/video/53924828.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVIRC' ITEMDESCRIPTION='Incomplete records - converting a single entry system' ITEMLINK='main/video/89482259.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 14' DESCTIPTION=' Unit 14 - Incomplete records – Part 2'>
+                    <P1 TITLE='Unit 14' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVIRC' ITEMDESCRIPTION='Incomplete records - converting a single entry system' ITEMLINK='main/video/89482259.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 15' DESCTIPTION=' Unit 15 - Partnerships - Part 1'>
+                    <P1 TITLE='Unit 15' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVCOP' ITEMDESCRIPTION='Contract of partnership' ITEMLINK='main/video/63305393.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVEQPA' ITEMDESCRIPTION='Equity accounts of a partnership' ITEMLINK='main/video/61179288.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVFSPP' ITEMDESCRIPTION='Financial statements of a partnership' ITEMLINK='main/video/50125988.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 16' DESCTIPTION=' Unit 16 - Partnerships – Part 2'>
+                    <P1 TITLE='Unit 16' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVCOP' ITEMDESCRIPTION='Contract of partnership' ITEMLINK='main/video/63305393.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVFSPP' ITEMDESCRIPTION='Financial statements of a partnership' ITEMLINK='main/video/50125988.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 17' DESCTIPTION=' Unit 17 - Statement of cash flows - Part 1'>
+                    <P1 TITLE='Unit 17' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVIAS' ITEMDESCRIPTION='International accounting standards' ITEMLINK='main/video/56631783.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDEFC' ITEMDESCRIPTION='The definition of cash' ITEMLINK='main/video/48299768.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVSCFL' ITEMDESCRIPTION='The statement of cash flows' ITEMLINK='main/video/50125991.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVSCF' ITEMDESCRIPTION='The format of the cash flow statement' ITEMLINK='main/video/88041741.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVACDP' ITEMDESCRIPTION='Accounting entries for asset disposal' ITEMLINK='main/video/48291935.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 18' DESCTIPTION=' Unit 18 - Statement of cash flows – Part 2'>
+                    <P1 TITLE='Unit 18' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVCPS' ITEMDESCRIPTION='Cash paid to suppliers and employees' ITEMLINK='main/video/56629171.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVSCFL' ITEMDESCRIPTION='The statement of cash flows' ITEMLINK='main/video/50125991.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 19' DESCTIPTION=' Unit 19 - Statement of cash flows – Part 3'>
+                    <P1 TITLE='Unit 19' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVSCF' ITEMDESCRIPTION='The format of the cash flow statement' ITEMLINK='main/video/88041741.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE='CONTENT' CHILDMENUMID='null' TITLE='Unit 20' DESCTIPTION=' Unit 20 - Introduction to International Financial Reporting Standards and the Conceptual Framework'>
+                    <P1 TITLE='Unit 20' TYPE='LIST'>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVRIA' ITEMDESCRIPTION='The role of the IASB' ITEMLINK='main/video/76512508.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVACCN' ITEMDESCRIPTION='The accrual concept' ITEMLINK='main/video/48141058.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVQCFI' ITEMDESCRIPTION='Qualitative characteristics of financial statements' ITEMLINK='main/video/56678367.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDEFA' ITEMDESCRIPTION='Defining assets' ITEMLINK='main/video/48299766.mp4' TYPE='VIDEO'/>
+                        <POSITEM ICON='main/images/icons/video.png' ITEMNAME='CVDEFL' ITEMDESCRIPTION='Defining liabilities' ITEMLINK='main/video/48299769.mp4' TYPE='VIDEO'/>
+                    </P1>
+                </MENUITEM>
+            </MEN>
+        </SIDEMENUS>
+    </ITEMS>
+</MAIN>

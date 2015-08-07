@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAIN>
+    <APP REGGROUP="default" REG="false" TRAININGPROVIDER="false" ID="29009d240d534bda3dda0a5867b1e629" TITLE="accounting 2" TAGLINE="learning area 2" HEADERIMAGE="main/images/logo-interface.png" COBRANDING="main/images/upload-boston.png" REGHEADER="main/images/logo_reg.png" COPYRIGHT="Copyright Edge CC 2015" MENUTITLE="Menu" REGURL="http://register.upload-media.com/modules/mod_edgemediaAPI/helpers/registration.php?" AID="12324qwerty" SKU="1234-qwer-1234"/>
+    <STYLE HEADERBACK1MC="0xFFFFFF" HEADERBACK2MC="0xFFFFFF" MENUBACKMC="0x024a74" CRUMBSBACKMC="0xc8dce8" AREA1MC="0xFFFFFF" AREA2MC="0x076fb4" AREA3MC="0xaabdc8" FOOTERBACKMC="0x076fb4"/>
+    <ITEMS>
+        <SIDEMENUS>
+        </SIDEMENUS>
+    </ITEMS>
+</MAIN>

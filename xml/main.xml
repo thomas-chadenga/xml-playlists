@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAIN>
+    <APP REGGROUP="default" REG="false" TRAININGPROVIDER="false" ID="29009d240d534bda3dda0a5867b1e629" TITLE="accounting 2" TAGLINE="learning area 2" HEADERIMAGE="main/images/logo-interface.png" COBRANDING="main/images/upload-boston.png" REGHEADER="main/images/logo_reg.png" COPYRIGHT="Copyright Edge CC 2015" MENUTITLE="Menu" REGURL="http://register.upload-media.com/modules/mod_edgemediaAPI/helpers/registration.php?" AID="12324qwerty" SKU="1234-qwer-1234"/>
+    <STYLE HEADERBACK1MC="0xFFFFFF" HEADERBACK2MC="0xFFFFFF" MENUBACKMC="0x024a74" CRUMBSBACKMC="0xc8dce8" AREA1MC="0xFFFFFF" AREA2MC="0x076fb4" AREA3MC="0xaabdc8" FOOTERBACKMC="0x076fb4"/>
+    <ITEMS>
+        <SIDEMENUS>
+            <MEN MID="0">
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Welcome" DESCTIPTION="Welcome to Upload Media">
+                    <P1 TITLE="Welcome" TYPE="CONTENT">
+                        <CONTENT>
+                            <![CDATA[this is a test]]>
+                        </CONTENT>
+                    </P1>
+                    <P2 TITLE="Revision Video" TYPE="LIST" LOCK="true">
+                        <POSITEM ICON="main/images/icons/pdf.png" ITEMNAME="" ITEMDESCRIPTION="Questions and Answer Templates" ITEMLINK="main/pdfs/bktb_section_a.pdf" TYPE="HTTP"/>
+                    </P2>
+                    <P3 TITLE="Websites" TYPE="LIST" LOCK="true">
+                        <POSITEM ICON="main/images/icons/http.png" ITEMNAME="" ITEMDESCRIPTION="Visit EDGE Learning Media" ITEMLINK="http://www.edgelearningmedia.com" TYPE="HTTP"/>
+                        <POSITEM ICON="main/images/icons/http.png" ITEMNAME="" ITEMDESCRIPTION="Visit Upload Media" ITEMLINK="http://www.upload-media.com" TYPE="HTTP"/>
+                        <POSITEM ICON="main/images/icons/http.png" ITEMNAME="" ITEMDESCRIPTION="Visit BOSTON" ITEMLINK="http://bostoncollege.co.za" TYPE="HTTP"/>
+                    </P3>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="MENU" CHILDMENUMID="1" TITLE="Upload Media Video Playlist " DESCTIPTION=" Concept Videos "/>
+            </MEN>
+            <MEN MID="1">
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Unit 1" DESCTIPTION="Introduction to taxation">
+                    <P1 TITLE="Unit 1" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVITT" ITEMDESCRIPTION="International tax rules and treaties" ITEMLINK="main/video/81578675.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVTIB" ITEMDESCRIPTION="Taxable income: individuals and businesses" ITEMLINK="main/video/56678592.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVTRT" ITEMDESCRIPTION="Tax rates, rebates and thresholds" ITEMLINK="main/video/56680034.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVTCG" ITEMDESCRIPTION="Taxable capital gains or losses" ITEMLINK="main/video/59995042.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVCIS" ITEMDESCRIPTION="Controls implemented by SARS" ITEMLINK="main/video/60071501.mp4" TYPE="VIDEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Unit 2" DESCTIPTION="Gross income">
+                    <P1 TITLE="Unit 2" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVGIS" ITEMDESCRIPTION="Gross income: special inclusions" ITEMLINK="main/video/60147362.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVDLI" ITEMDESCRIPTION="Deduction of leasehold improvements" ITEMLINK="main/video/56629172.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVGIT" ITEMDESCRIPTION="Gross income: types of income" ITEMLINK="main/video/60147364.mp4" TYPE="VIDEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Unit 3" DESCTIPTION="Exempt income">
+                    <P1 TITLE="Unit 3" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVEXA" ITEMDESCRIPTION="Exempt annuities" ITEMLINK="main/video/57841723.mp4" TYPE="VIDEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Unit 4" DESCTIPTION="Allowable deductions">
+                    <P1 TITLE="Unit 4" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVBEN" ITEMDESCRIPTION="Taxation of business entities in a nutshell" ITEMLINK="main/video/59974545.mp4" TYPE="VIDEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Unit 5" DESCTIPTION="Allowable deductions">
+                    <P1 TITLE="Unit 5" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVVID" ITEMDESCRIPTION="Valuation of important donations" ITEMLINK="main/video/56752113.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVHOA" ITEMDESCRIPTION="Home office allowance" ITEMLINK="main/video/53927724.mp4" TYPE="VIDEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Unit 6" DESCTIPTION="Fringe benefits and allowances">
+                    <P1 TITLE="Unit 6" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVTRAV" ITEMDESCRIPTION="Travel allowances and PAYE" ITEMLINK="main/video/60434471.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVFB" ITEMDESCRIPTION="Fringe benefits in a nutshell" ITEMLINK="main/video/59132699.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVMEDP" ITEMDESCRIPTION="Medical aid and PAYE" ITEMLINK="main/video/59994610.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVCOMC" ITEMDESCRIPTION="Company cars and PAYE" ITEMLINK="main/video/59979036.mp4" TYPE="VIDEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Unit 7" DESCTIPTION="Capital gains tax">
+                    <P1 TITLE="Unit 7" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVTCG" ITEMDESCRIPTION="Taxable capital gains or losses" ITEMLINK="main/video/59995042.mp4" TYPE="VIDEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Unit 8" DESCTIPTION="Assessed losses">
+                    <P1 TITLE="Unit 8" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVRFA" ITEMDESCRIPTION="Ring-fencing of assessed losses" ITEMLINK="main/video/86013194.mp4" TYPE="VIDEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Unit 9" DESCTIPTION="Employees’ tax and provisional tax">
+                    <P1 TITLE="Unit 9" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVEMPN" ITEMDESCRIPTION="Employees tax in a nutshell" ITEMLINK="main/video/56683472.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVPC" ITEMDESCRIPTION="The payroll cycle" ITEMLINK="main/video/53921947.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVCOMC" ITEMDESCRIPTION="Company cars and PAYE" ITEMLINK="main/video/59979036.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVMEDP" ITEMDESCRIPTION="Medical aid and PAYE" ITEMLINK="main/video/59994610.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVTRAV" ITEMDESCRIPTION="Travel allowances and PAYE" ITEMLINK="main/video/60434471.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVCPSL" ITEMDESCRIPTION="Completing payslips" ITEMLINK="main/video/56627770.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVUIF" ITEMDESCRIPTION="Calculating UIF contributions" ITEMLINK="main/video/60057830.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVPYNT" ITEMDESCRIPTION="Determining PAYE remuneration" ITEMLINK="main/video/60245175.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVPYCA" ITEMDESCRIPTION="The PAYE calculation" ITEMLINK="main/video/62685467.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVSDLN" ITEMDESCRIPTION="Skills Development Levies (SDL) in a nutshell" ITEMLINK="main/video/60248393.mp4" TYPE="VIDEO"/>
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVEMP2" ITEMDESCRIPTION="Completing the EMP201 return" ITEMLINK="main/video/56631037.mp4" TYPE="VIDEO"/>
+                    </P1>
+                </MENUITEM>
+                <MENUITEM MENUTYPE="CONTENT" CHILDMENUMID="null" TITLE="Unit 10" DESCTIPTION="Employees’ tax and provisional tax">
+                    <P1 TITLE="Unit 10" TYPE="LIST">
+                        <POSITEM ICON="main/images/icons/video.png" ITEMNAME="CVSTRG" ITEMDESCRIPTION="Statutory registrations at a glance" ITEMLINK="main/video/53927727.mp4" TYPE="VIDEO"/>
+                    </P1>
+                </MENUITEM>
+            </MEN>
+        </SIDEMENUS>
+    </ITEMS>
+</MAIN>
